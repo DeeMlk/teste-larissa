@@ -1,3 +1,3 @@
-const titulo = document.querySelector("h1");
+const titulo = document.querySelector(".titulo-um");
 
 console.log(titulo.textContent);
