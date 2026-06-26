@@ -1,3 +1,7 @@
 const titulo = document.getElementById("titulo-principal");
 
-console.log(titulo.textContent);
+function printarTexto() {
+    console.log(titulo.textContent);
+}
+
+printarTexto();
